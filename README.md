@@ -183,7 +183,6 @@ Details: `reframework/data/refw_framegen.log`.
 
 ## Credits
 
-Uses NVIDIA Streamline and DLSS (NVIDIA's files included unmodified, under NVIDIA's licenses in `licenses/`),
 AMD FidelityFX CAS (its algorithm, MIT), REFramework's plugin API and MinHook. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Not affiliated with or
 endorsed by NVIDIA or Capcom. NVIDIA, DLSS and RTX are trademarks of NVIDIA Corporation.
 DLSS and DLSS Frame Generation are NVIDIA technologies; this project is not affiliated with NVIDIA, Capcom or REFramework.
